@@ -35,7 +35,7 @@ public class EmpleadoED_23323885E {
         salarioFinal = (double)Math.round(salarioFinal * 100d) / 100d;
         return salarioFinal;
     }
- 
+ // esta clase no se comentará
     public static void main(String[] args) {
         EmpleadoED_23323885E emp = new EmpleadoED_23323885E("JIMENA ROSERO", "23323885E");
         int horasExtra = 2;
